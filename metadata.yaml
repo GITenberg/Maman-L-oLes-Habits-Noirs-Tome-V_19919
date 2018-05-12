@@ -1,0 +1,35 @@
+_repo: Maman-L-oLes-Habits-Noirs-Tome-V_19919
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Féval, Paul
+    aliases:
+    - Feval, Paul
+    - Féval, Paul Henri Corentin
+    birthdate: 1817
+    deathdate: 1887
+    gutenberg_agent_id: '3280'
+    url: http://www.gutenberg.org/2009/agents/3280
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Paul_Féval,_père
+    - http://fr.wikipedia.org/wiki/Paul_Féval_père
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19919'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: 'Maman Léo
+
+  Les Habits Noirs Tome V'
+url: http://www.gutenberg.org/ebooks/19919
