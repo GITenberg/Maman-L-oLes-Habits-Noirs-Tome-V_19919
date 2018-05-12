@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Paul_Féval,_père
     - http://fr.wikipedia.org/wiki/Paul_Féval_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19919#Maman-L-oLes-Habits-Noirs-Tome-V
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-11-26'
 gutenberg_type: Text
